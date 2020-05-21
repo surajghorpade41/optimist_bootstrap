@@ -1,0 +1,61 @@
+
+
+
+
+header{
+	background-color: black;
+	padding: 10px;
+	font-family: 'Anton', sans-serif;
+}
+h3{
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	padding: 40px;
+}
+ul{
+	list-style: none;
+	color: black;
+	font-family: 'Anton', sans-serif;
+}
+
+li{
+	display: inline;
+	margin: 30px;
+	font-family: 'Anton', sans-serif;
+
+
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: 'Anton', sans-serif;
+	width: 300px;
+}
+
+li a:hover{
+	color: green;
+	text-decoration: underline;
+	font-family: 'Anton', sans-serif;
+}
+
+nav{
+	text-align: center;
+}
+
+footer{
+ 	background-color: black;
+ 	color: white;
+ 	padding: 10px;
+ 	text-align: center;
+ }
+ 
+ h2{
+ 	font-family: 'Anton', sans-serif;
+ 	text-align: center;
+ 	padding: 20px; 
+ }
+ 
+.img_container_{
+	text-align: center;
+}
